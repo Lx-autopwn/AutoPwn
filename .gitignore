@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Core dumps
+core
+core.*
+
+# Temporary / runtime
+flag
+flag.txt
+*.log
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
